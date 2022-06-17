@@ -350,6 +350,7 @@
 -r:"Library/Bee/artifacts/2400b0aE.dag/Unity.VisualStudio.Editor.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2400b0aE.dag/UnityEngine.UI.ref.dll"
+"Assets/Scripts/Example.cs"
 "Assets/Scripts/ExampleScript.cs"
 -langversion:9.0
 
